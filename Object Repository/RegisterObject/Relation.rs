@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Relation</name>
+   <tag></tag>
+   <elementGuidId>a7b89d8a-b396-4d2b-b3b4-ff5a29152fd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;relationship_type&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[3]/form/section[3]/div/fieldset/div/div/p[1]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;relationship_type&quot;]</value>
+      <webElementGuid>651cfc2a-93d1-4b01-ac5c-42dc4b962771</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
